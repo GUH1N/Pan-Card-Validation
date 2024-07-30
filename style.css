@@ -1,0 +1,15 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    background-color: aqua;
+}
+
+.container
+{
+    width: 700px;
+    border: 2px solid;
+    padding: 10px;
+    background-color: aliceblue;
+}
